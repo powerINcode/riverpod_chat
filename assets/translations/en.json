@@ -1,0 +1,8 @@
+{
+    "chats" : "Chats",
+    "error": "Something went wrong. Please, try again later...",
+    "retry": "Retry",
+    "empty_messages": "No Messages",
+    "write_message": "Write message...",
+    "send": "Send"
+}
